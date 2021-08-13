@@ -10,7 +10,7 @@
       flex-direction: column;
       transition: all 0.7s ease-out;
       height: 478px;
-      background: rgba(9, 129, 235, 0.7) url('images/wcc5.PNG');
+      background: rgba(9, 129, 235, 0.7) url('wcc5.PNG');
     }
     .rightNav{
       text-align: center;
