@@ -81,6 +81,9 @@
 
   @media only screen and (max-width:426px)
   {
+    body{
+      width: 123%;
+    }
     .text-big{
       text-align: center;
       margin-left: 120px;
